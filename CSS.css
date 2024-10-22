@@ -51,3 +51,19 @@ label {
   color: #0d47a1;
   font-weight: bold;
 }
+
+button {
+    background-color: #ff6b00;
+    border: none;
+    padding: 10px;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  button:hover {
+    background-color: #e65a00;
+  }
+  
