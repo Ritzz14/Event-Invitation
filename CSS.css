@@ -93,3 +93,14 @@ button {
     top: 10px;
     right: 10px;
   }
+
+  #eventDetails {
+    background-color: white;
+    border: 2px solid #e74c3c;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    max-width: 400px;
+    width: 100%;
+    text-align: left;
+  }
